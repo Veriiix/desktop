@@ -94,6 +94,7 @@ https://www.tablesgenerator.com/
 | 1.0.0-a.9  | 3.7    |
 | others| - |
 | Default FF  | 28    |
+| MS Edge  | 30    |
 
 
 https://browserbench.org/Speedometer3.0/
